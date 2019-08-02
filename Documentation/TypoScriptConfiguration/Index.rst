@@ -225,14 +225,8 @@ configuration options can be found in the :ref:`TypoScript Reference
       metaCharset = utf-8
       no_cache = 0
       pageTitleFirst = 1
-      prefixLocalAnchors = all
       removeDefaultJS = 0
-      renderCharset = utf-8
       sendCacheHeaders = 1
-      uniqueLinkVars = 1
-
-      // Disable image upscaling
-      noScaleUp = 1
 
       // Compression and concatenation of CSS and JS Files
       compressCss = 0
